@@ -35,7 +35,7 @@ def main():
         # 3. Create BankAccount using client data
         bank_account = BankAccount(client, 1500.00) 
 
-        # 4. Ask user for log file name
+        # 4. Ask user for log file
         filename = input("Enter a filename to store logs: ")
         insecure_log_to_file(filename, "Bank account initialized.") 
 

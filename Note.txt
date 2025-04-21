@@ -1,0 +1,1 @@
+I used Bandit for the local/CLI scan and codeQL for the GitHub Action scan
